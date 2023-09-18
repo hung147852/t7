@@ -1,0 +1,26 @@
+{
+    "dish1": {
+      "name": "Mon an 1",
+      "img": "D:/homework/T7/t7/src/images/banhmy1.png"
+    },
+    "dish2": {
+      "name": "Mon an 2",
+      "img":"../../images/monan2.png"
+    },
+    "dish3": {
+      "name": "Mon an 3",
+      "img": "../../images/monan3.png"
+    },
+    "dish4": {
+      "name": "Mon an 4",
+      "img": "../../images/monan4.png"
+    },
+    "dish5": {
+        "name": "Mon an 5",
+        "img": "../../images/monan5.png"
+    },
+    "dish6": {
+        "name": "Mon an 6",
+        "img": "../../images/monan6.png"
+    }
+}
